@@ -71,6 +71,8 @@ Conception d'une architecture de données pour centraliser et traiter des inform
 - Automatisation, contrôles qualité et alertes.
 - Restitution des indicateurs métier dans Power BI.
 
+🔗 [Voir le projet Sport Data Solution](https://github.com/Fatima012020/Creez_et_automatisez_une_architecture_de_donnees_THIAM_Fatou)
+
 ## 🎯 Mes objectifs professionnels
 
 Je souhaite mettre mes compétences au service de projets Data Engineering, notamment dans les domaines suivants :
