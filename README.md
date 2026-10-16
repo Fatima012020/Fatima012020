@@ -1,87 +1,67 @@
 # Bonjour, je suis Fatou Thiam 👋
 
-### Data Engineer | Python • SQL • Cloud • Data Engineering
+### Data Engineer | Python • SQL • Cloud • Automatisation des pipelines de données
 
-Bienvenue sur mon profil GitHub !
+Passionnée par la Data Engineering, je me spécialise dans la conception, l'automatisation et la fiabilisation des pipelines de données.
 
-Je suis en formation **Data Engineer chez OpenClassrooms**, avec un intérêt particulier pour la conception de pipelines de données, l'automatisation des traitements, les architectures cloud et l'intelligence artificielle.
+Actuellement en formation **Data Engineer chez OpenClassrooms**, je réalise des projets concrets autour du traitement des données, des architectures cloud, du streaming et de l'intelligence artificielle.
 
-À travers mes projets, je développe des solutions permettant de collecter, transformer, fiabiliser et exploiter les données.
+Mon objectif : transformer des données brutes en informations fiables, exploitables et utiles à la prise de décision.
 
 ## 🛠️ Compétences techniques
 
-**Langages et bases de données**
+- **Programmation et bases de données :** Python, SQL, PostgreSQL, MongoDB, DuckDB
+- **Data Engineering :** PySpark, Apache Spark, dbt, Kestra, Redpanda, Debezium, Delta Lake
+- **Cloud et DevOps :** AWS, Docker, Git, GitHub
+- **IA et NLP :** RAG, LangChain, FAISS, Mistral AI
+- **Analyse et visualisation :** Pandas, Power BI, Excel
 
-Python · SQL · PostgreSQL · MongoDB · DuckDB
+## 🚀 Mes projets phares
 
-**Data Engineering et orchestration**
+### 🏃 Sport Data Solution — Architecture de données automatisée
 
-Apache Spark · PySpark · dbt · Kestra · Apache Kafka / Redpanda · Debezium · Delta Lake
+**Technologies :** PostgreSQL, Debezium, Redpanda, PySpark, Delta Lake, Docker, Power BI
 
-**Cloud et DevOps**
+Conception d'une architecture de données permettant de traiter des activités sportives et des données RH.
 
-AWS · Docker · Git · GitHub
+- Mise en place d'un pipeline CDC et streaming.
+- Traitement automatisé avec PySpark et Delta Lake.
+- Notifications et alertes avec Slack.
+- Calcul des avantages salariés et restitution dans Power BI.
+- Intégration de contrôles qualité et de mécanismes de reprise automatique.
 
-**Intelligence artificielle et NLP**
-
-LangChain · FAISS · Mistral AI · RAG (Retrieval-Augmented Generation)
-
-**Analyse et visualisation**
-
-Pandas · Power BI · Excel
-
-## 🚀 Mes projets Data Engineering
-
-### 🍷 BottleNeck — Automatisation d'un pipeline de données
-
-**Technologies :** Python, SQL, DuckDB, Kestra, Docker
-
-Conception d'un pipeline automatisé pour traiter des données commerciales issues de plusieurs fichiers Excel.
-
-- Nettoyage, dédoublonnage et fusion de données.
-- Analyse de 714 produits et calcul d'un chiffre d'affaires de **70 568,60 €**.
-- Identification de **30 vins premium** à l'aide du Z-score.
-- Orchestration des traitements et contrôles qualité avec Kestra.
-
-🔗 [Voir le projet BottleNeck](https://github.com/Fatima012020/BottleNeck-Data-Pipeline)
+🔗 [Découvrir le projet Sport Data Solution](https://github.com/Fatima012020/Creez_et_automatisez_une_architecture_de_donnees_THIAM_Fatou)
 
 ### 🤖 Puls-Events — Chatbot intelligent RAG
 
 **Technologies :** Python, LangChain, FAISS, Mistral AI
 
-Développement d'un prototype de chatbot intelligent pour faciliter la recherche d'événements culturels.
+Développement d'un prototype de chatbot permettant de rechercher des événements culturels en langage naturel.
 
-- Collecte et préparation de données événementielles issues d'Open Agenda.
-- Vectorisation et indexation sémantique avec FAISS.
-- Mise en place d'un pipeline RAG avec LangChain et Mistral.
-- Tests et évaluation des réponses du chatbot.
+- Collecte et préparation des événements OpenAgenda.
+- Vectorisation et indexation de 7 548 chunks dans FAISS.
+- Recherche sémantique et génération de réponses contextualisées.
+- Validation du pipeline avec 17 tests réussis.
 
-🔗 [Voir le projet Puls-Events](https://github.com/Fatima012020/Puls-Events-RAG)
+🔗 [Découvrir le projet Puls-Events](https://github.com/Fatima012020/Puls-Events-RAG)
 
-### 🏃 Sport Data Solution — Architecture de données automatisée
+### 🍷 BottleNeck — Pipeline de données automatisé
 
-**Technologies :** PostgreSQL, Debezium, Redpanda, PySpark, Delta Lake, dbt, Docker, Power BI
+**Technologies :** Python, SQL, DuckDB, Kestra, Docker
 
-Conception d'une architecture de données pour centraliser et traiter des informations RH et sportives.
+Automatisation du traitement et de l'analyse de données commerciales.
 
-- Intégration et transformation des données.
-- Mise en place de la capture des changements (CDC) avec Debezium.
-- Streaming d'événements avec Redpanda.
-- Traitements de données avec PySpark et Delta Lake.
-- Automatisation, contrôles qualité et alertes.
-- Restitution des indicateurs métier dans Power BI.
+- Nettoyage, dédoublonnage et rapprochement de données.
+- Analyse de 714 produits.
+- Calcul d'un chiffre d'affaires de **70 568,60 €**.
+- Identification de 30 vins premium par Z-score.
+- Orchestration avec Kestra et validation de 7 tests qualité.
 
-🔗 [Voir le projet Sport Data Solution](https://github.com/Fatima012020/Creez_et_automatisez_une_architecture_de_donnees_THIAM_Fatou)
+🔗 [Découvrir le projet BottleNeck](https://github.com/Fatima012020/BottleNeck-Data-Pipeline)
 
-## 🎯 Mes objectifs professionnels
+## 🎯 Objectif professionnel
 
-Je souhaite mettre mes compétences au service de projets Data Engineering, notamment dans les domaines suivants :
-
-- Conception et automatisation de pipelines de données.
-- Intégration et transformation de données.
-- Architectures cloud et traitement distribué.
-- Fiabilité, qualité et observabilité des données.
-- Applications de l'intelligence artificielle aux systèmes de données.
+Contribuer à des projets de Data Engineering en mobilisant mes compétences en développement de pipelines, intégration de données, automatisation, traitement distribué et cloud.
 
 ## 📫 Me retrouver
 
@@ -90,4 +70,4 @@ Je souhaite mettre mes compétences au service de projets Data Engineering, nota
 
 ---
 
-*Merci de votre visite ! N'hésitez pas à découvrir mes projets et leur documentation.*
+*Merci de votre visite ! Découvrez mes projets pour en savoir plus sur mes réalisations techniques.*
